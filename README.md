@@ -93,11 +93,11 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.*
 
 **Tabla 5.1. Valores del Circuito Equivalente de Thévenin**
 
-![]()
+![](https://github.com/smvaca2/lab-5/blob/2afac6b1d5fb395ce411422eefdb665266f2fa8e/tabal1.PNG)
 
 **Tabla 5.2. Comprobación del Teorema de Thévenin.**
 
-![]()
+![](https://github.com/smvaca2/lab-5/blob/2afac6b1d5fb395ce411422eefdb665266f2fa8e/tabla2.PNG)
 
 **Calcular errores de las mediciones y comentar los resultados.**
 
