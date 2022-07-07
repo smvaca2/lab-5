@@ -107,6 +107,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.*
 
 ***5.-VIDEO***
 
+https://youtu.be/qJcl7gTVv_0
 
 ***6.-CONCLUSIONES***
 
