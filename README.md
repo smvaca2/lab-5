@@ -19,11 +19,13 @@ _Analizar los voltajes equivalentes y resistencias equivalentes en la aplicació
 
 ***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
 
-![]()
+![](https://github.com/smvaca2/lab-5/blob/32761160607283144c57321140b5d21dd2012ff4/WhatsApp%20Image%202022-07-06%20at%208.06.49%20PM%20(1).jpeg)
 
-![]()
+![](https://github.com/smvaca2/lab-5/blob/32761160607283144c57321140b5d21dd2012ff4/WhatsApp%20Image%202022-07-06%20at%208.06.50%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/lab-5/blob/32761160607283144c57321140b5d21dd2012ff4/WhatsApp%20Image%202022-07-06%20at%208.06.50%20PM%20(1).jpeg)
+
+![](https://github.com/smvaca2/lab-5/blob/32761160607283144c57321140b5d21dd2012ff4/WhatsApp%20Image%202022-07-06%20at%208.47.35%20PM.jpeg)
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
@@ -100,6 +102,8 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.*
 ![](https://github.com/smvaca2/lab-5/blob/2afac6b1d5fb395ce411422eefdb665266f2fa8e/tabla2.PNG)
 
 **Calcular errores de las mediciones y comentar los resultados.**
+
+![](https://github.com/smvaca2/lab-5/blob/32761160607283144c57321140b5d21dd2012ff4/WhatsApp%20Image%202022-07-06%20at%208.22.47%20PM.jpeg)
 
 ***5.-VIDEO***
 
