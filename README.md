@@ -21,7 +21,7 @@ _Analizar los voltajes equivalentes y resistencias equivalentes en la aplicació
 
 ![](https://github.com/smvaca2/lab-5/blob/32761160607283144c57321140b5d21dd2012ff4/WhatsApp%20Image%202022-07-06%20at%208.06.49%20PM%20(1).jpeg)
 
-![](https://github.com/smvaca2/lab-5/blob/32761160607283144c57321140b5d21dd2012ff4/WhatsApp%20Image%202022-07-06%20at%208.06.50%20PM.jpeg)
+![](https://github.com/smvaca2/lab-5/blob/95f6ede513fea810ba0f9ff2663ab1c60d98bc5c/WhatsApp%20Image%202022-07-06%20at%209.24.40%20PM.jpeg)
 
 ![](https://github.com/smvaca2/lab-5/blob/32761160607283144c57321140b5d21dd2012ff4/WhatsApp%20Image%202022-07-06%20at%208.06.50%20PM%20(1).jpeg)
 
@@ -110,6 +110,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.*
 
 ***6.-CONCLUSIONES***
 
+Se pudo comprobrar que realizando los respectivos calculos de la resistencia y voltaje de Thevenin, en la aplicación se puede llegar a un circuito mucho más simple, reduciendo así la complejidad del circuito original. Es importante resaltar el uso que se le ha dado al potenciometro en este laboratorio, puesto que si la resistencia hubiese tenido un valor con más decimales el uso del potenciometro hubiese sido más evidente.
 
 ***7.-BIBLIOGRAFÍA***
 
